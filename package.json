@@ -19,8 +19,7 @@
   "author": "Umi Uyura",
   "license": "MIT",
   "dependencies": {
-    "react": "^0.13.3",
-    "react-tap-event-plugin": "^0.1.7"
+    "react": "^0.13.3"
   },
   "devDependencies": {
     "babelify": "^6.1.3",
