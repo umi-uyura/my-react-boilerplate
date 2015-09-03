@@ -21,15 +21,14 @@ Project Structure
 ```
 .
 ├── README.md
-├── dist
+├── app
 │   ├── css
 │   ├── index.html
 │   └── js
+├── dist
 ├── html-minifier.conf
+├── node_modules
 ├── package.json
 └── src
-    ├── css
-    ├── index.html
-    ├── js
     └── jsx
 ```
