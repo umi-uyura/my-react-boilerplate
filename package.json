@@ -22,13 +22,13 @@
     "react": "^0.13.3"
   },
   "devDependencies": {
-    "babelify": "^6.2.0",
+    "babelify": "^6.3.0",
     "beefy": "sberan/beefy#fix-live-reload-reliability",
     "browserify": "^11.0.1",
-    "clean-css": "^3.3.9",
+    "clean-css": "^3.4.1",
     "html-minifier": "^0.7.2",
-    "licensify": "^1.4.0",
+    "licensify": "^1.5.0",
     "uglify-js": "^2.4.24",
-    "watchify": "^3.3.1"
+    "watchify": "^3.4.0"
   }
 }
