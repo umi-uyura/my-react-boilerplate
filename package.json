@@ -19,16 +19,17 @@
   "author": "Umi Uyura",
   "license": "MIT",
   "dependencies": {
-    "react": "^0.13.3"
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
   },
   "devDependencies": {
-    "babelify": "^6.3.0",
+    "babelify": "^6.4.0",
     "beefy": "sberan/beefy#fix-live-reload-reliability",
-    "browserify": "^11.0.1",
-    "clean-css": "^3.4.1",
-    "html-minifier": "^0.7.2",
-    "licensify": "^1.5.0",
-    "uglify-js": "^2.4.24",
-    "watchify": "^3.4.0"
+    "browserify": "^12.0.1",
+    "clean-css": "^3.4.6",
+    "html-minifier": "^1.0.0",
+    "licensify": "^2.0.1",
+    "uglify-js": "^2.5.0",
+    "watchify": "^3.6.0"
   }
 }
